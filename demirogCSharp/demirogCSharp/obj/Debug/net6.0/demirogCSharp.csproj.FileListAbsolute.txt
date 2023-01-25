@@ -1,0 +1,15 @@
+C:\Users\topcu\source\repos\demirogCSharp\demirogCSharp\bin\Debug\net6.0\demirogCSharp.exe
+C:\Users\topcu\source\repos\demirogCSharp\demirogCSharp\bin\Debug\net6.0\demirogCSharp.deps.json
+C:\Users\topcu\source\repos\demirogCSharp\demirogCSharp\bin\Debug\net6.0\demirogCSharp.runtimeconfig.json
+C:\Users\topcu\source\repos\demirogCSharp\demirogCSharp\bin\Debug\net6.0\demirogCSharp.dll
+C:\Users\topcu\source\repos\demirogCSharp\demirogCSharp\bin\Debug\net6.0\demirogCSharp.pdb
+C:\Users\topcu\source\repos\demirogCSharp\demirogCSharp\obj\Debug\net6.0\demirogCSharp.csproj.AssemblyReference.cache
+C:\Users\topcu\source\repos\demirogCSharp\demirogCSharp\obj\Debug\net6.0\demirogCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\topcu\source\repos\demirogCSharp\demirogCSharp\obj\Debug\net6.0\demirogCSharp.AssemblyInfoInputs.cache
+C:\Users\topcu\source\repos\demirogCSharp\demirogCSharp\obj\Debug\net6.0\demirogCSharp.AssemblyInfo.cs
+C:\Users\topcu\source\repos\demirogCSharp\demirogCSharp\obj\Debug\net6.0\demirogCSharp.csproj.CoreCompileInputs.cache
+C:\Users\topcu\source\repos\demirogCSharp\demirogCSharp\obj\Debug\net6.0\demirogCSharp.dll
+C:\Users\topcu\source\repos\demirogCSharp\demirogCSharp\obj\Debug\net6.0\refint\demirogCSharp.dll
+C:\Users\topcu\source\repos\demirogCSharp\demirogCSharp\obj\Debug\net6.0\demirogCSharp.pdb
+C:\Users\topcu\source\repos\demirogCSharp\demirogCSharp\obj\Debug\net6.0\demirogCSharp.genruntimeconfig.cache
+C:\Users\topcu\source\repos\demirogCSharp\demirogCSharp\obj\Debug\net6.0\ref\demirogCSharp.dll
