@@ -1,0 +1,20 @@
+﻿@model SaveCustomerViewModel
+@{
+}
+
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width" />
+        <title>Index</title>
+    </head>
+    <body>
+        <form asp-controller="Customer" asp-action="SaveCustomer">
+            Id: <input asp-for="customer.Id" /> <br />
+            Ad: <input asp-for="customer.Name" /> <br />
+            Sehir : <select asp-for="customer.City" asp-items="Model.cities" ></select> <br />
+            <button type="submit">Kaydet</button>
+        </form>
+    </body>
+</html>
