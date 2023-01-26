@@ -5,6 +5,7 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 
 namespace AspNetCoreIntro.Controllers
 {
+    [Route("deneme")]
     public class CustomerController : Controller
     {
         public IActionResult Index()
@@ -12,6 +13,8 @@ namespace AspNetCoreIntro.Controllers
             return View();
         }
 
+        [Route("index")]
+        [Route("")]
         public IActionResult Index3()
         {
             List<Customer> customers = new List<Customer>
@@ -32,6 +35,8 @@ namespace AspNetCoreIntro.Controllers
             return View(model);
         }
 
+        [HttpGet]
+        [Route("save")]
         public IActionResult SaveCustomer()
         {
             return View(new SaveCustomerViewModel
@@ -49,6 +54,7 @@ namespace AspNetCoreIntro.Controllers
         }
 
         [HttpPost]
+        [Route("save")]
         public string SaveCustomer(Customer customer)
         {
 
