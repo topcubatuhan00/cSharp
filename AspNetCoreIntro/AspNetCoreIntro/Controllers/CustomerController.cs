@@ -2,21 +2,34 @@
 using AspNetCoreIntro.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
+using AspNetCoreIntro.Services.Logging;
 
 namespace AspNetCoreIntro.Controllers
 {
+
     [Route("deneme")]
     public class CustomerController : Controller
     {
+
+        private Services.Logging.ILogger _logger;
+
+        public CustomerController(Services.Logging.ILogger logger)
+        {
+            _logger = logger;
+        }
+
+
+
         public IActionResult Index()
         {
             return View();
         }
-
+         
         [Route("index")]
         [Route("")]
         public IActionResult Index3()
         {
+            _logger.Logla("");
             List<Customer> customers = new List<Customer>
             {
                 new Customer{Id=1,Name="batuhan",City="bursa"},
