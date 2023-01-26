@@ -1,0 +1,8 @@
+C:\Users\topcu\source\repos\DatabasePart2\DatabasePart2\bin\Debug\DatabasePart2.exe.config
+C:\Users\topcu\source\repos\DatabasePart2\DatabasePart2\bin\Debug\DatabasePart2.exe
+C:\Users\topcu\source\repos\DatabasePart2\DatabasePart2\bin\Debug\DatabasePart2.pdb
+C:\Users\topcu\source\repos\DatabasePart2\DatabasePart2\obj\Debug\DatabasePart2.csproj.AssemblyReference.cache
+C:\Users\topcu\source\repos\DatabasePart2\DatabasePart2\obj\Debug\DatabasePart2.csproj.SuggestedBindingRedirects.cache
+C:\Users\topcu\source\repos\DatabasePart2\DatabasePart2\obj\Debug\DatabasePart2.csproj.CoreCompileInputs.cache
+C:\Users\topcu\source\repos\DatabasePart2\DatabasePart2\obj\Debug\DatabasePart2.exe
+C:\Users\topcu\source\repos\DatabasePart2\DatabasePart2\obj\Debug\DatabasePart2.pdb
