@@ -39,7 +39,7 @@
 
 # Debug files
 *.dSYM/
-*.vs/
+*/.vs/
 *.su
 *.idb
 *.pdb
